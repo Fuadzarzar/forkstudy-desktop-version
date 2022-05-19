@@ -1,0 +1,18 @@
+
+.Act__button {
+    align-items: center;
+    border-radius: 1rem;
+    color: #111112;
+    display: flex;
+    font-weight: 700;
+    font-size: 1.6rem;
+    height: 6rem;background-color: #fffe27;
+    justify-content: center;
+    transition: 0.2s;
+    width: 21.6rem;
+}
+
+.Act__button:hover {
+    opacity: .8;
+    transition: 0.2s
+}

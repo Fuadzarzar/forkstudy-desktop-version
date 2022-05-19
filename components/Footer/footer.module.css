@@ -1,0 +1,33 @@
+
+.footer {
+    bottom: 0;
+    display: flex;
+    height: 6rem;
+    padding-left: 5rem;
+    position: absolute;
+    width: 100%;
+}
+
+.footer__iconContent {
+    display: inline-block;
+    height: 4rem;
+    padding-top: 0.75rem;
+}
+
+.footer__textContent {
+    display: inline-block;
+    margin-left: 0.5rem;
+}
+
+.textContent__text {
+    color: #ffff;
+    font-size: 1.6rem;
+    font-weight: 500;
+    margin: 0;
+}
+
+.textContent__link {
+    color: #fffe27;
+    font-size: 1.6rem;
+    font-weight: 500;
+}

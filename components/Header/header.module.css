@@ -1,0 +1,25 @@
+
+.navigation {
+    display: flex;align-items: center;
+    height: 8.6rem;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.navigation__menu {
+    display: flex;
+    font-size: 1.6rem;
+    gap: 3rem;
+    margin-right: 5rem;
+}
+
+.navigation__menu a:hover {
+    color: #fffe27;
+    opacity: .8;
+}
+
+.logo {
+    height:2.6rem;
+    margin-left:5rem;
+    width: 11.45rem;
+}
